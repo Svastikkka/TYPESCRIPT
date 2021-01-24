@@ -1,0 +1,22 @@
+# Types in TypeScript
+- TypeScript inherits the built-in types from JavaScript. TypeScript types is categorized into:
+  - Primitive types
+  - Object types
+  
+## Primitive types
+- The following illustrates the primitive types in TypeScript:
+---------------------------
+| Name      | Description |
+| string    | Represents text data |
+| number    | Represents numeric values |
+| boolean   | Has true and false values |
+| null      | Has one value: null |
+| undefined | Has one value: undefined. It is a default value of an uninitialized variable |
+| symbol    | Represents a unique constant value |
+
+## Object types
+- Objec types are 
+  - functions
+  - arrays
+  - classes
+Later, you’ll learn how to create custom object types.
