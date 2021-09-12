@@ -1,7 +1,7 @@
 # TypeScript
 Please ignore this repository i am actually creating typescript notes with by learning.
 
-1. (Introduction)[https://github.com/Svastikkka/TYPESCRIPT/blob/development/1.%20Introduction.md]
+1. [Introduction](https://github.com/Svastikkka/TYPESCRIPT/blob/development/1.%20Introduction.md)
 2. Setup
 3. TypeScript “Hello, World!”
 4. Why use TypeScript
