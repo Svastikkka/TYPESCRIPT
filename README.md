@@ -7,11 +7,12 @@ Please ignore this repository i am actually creating typescript notes with by le
 4. [Why use TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/4.%20Why%20use%20TypeScript.md)
 5. [How Typescript solves the problems of dynamic types](https://github.com/Svastikkka/TYPESCRIPT/blob/development/5.%20How%20Typescript%20solves%20the%20problems%20of%20dynamic%20types.md)
 6. [What is a type in TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/5.%20How%20Typescript%20solves%20the%20problems%20of%20dynamic%20types.md)
-7. Types in TypeScript
-8. Purposes of types in TypeScript
-9. Understanding Type Annotations in TypeScript
-10. Type Inference
-11. Contextual typing
+7. [Types in TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/7.%20Types%20in%20TypeScript.md)
+8. [Purposes of types in TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/8.%20Purposes%20of%20types%20in%20TypeScript.md)
+9. [Understanding Type Annotations in TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/9.%20Understanding%20Type%20Annotations%20in%20TypeScript.md)
+10. [Type Inference](https://github.com/Svastikkka/TYPESCRIPT/blob/development/10.%20Type%20Inference.md)
+11. [Contextual typing](https://github.com/Svastikkka/TYPESCRIPT/blob/development/11.%20Contextual%20typing.md) | Not done
+12. [TypeScript Number](https://github.com/Svastikkka/TYPESCRIPT/blob/development/12.%20TypeScript%20Number.md)
 
 Notes are taken from following websites 
 
