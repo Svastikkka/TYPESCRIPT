@@ -6,7 +6,7 @@ Please ignore this repository i am actually creating typescript notes with by le
 3. [TypeScript “Hello, World!”](https://github.com/Svastikkka/TYPESCRIPT/blob/development/3.%20TypeScript%20“Hello%2C%20World!”.md)
 4. [Why use TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/4.%20Why%20use%20TypeScript.md)
 5. [How Typescript solves the problems of dynamic types](https://github.com/Svastikkka/TYPESCRIPT/blob/development/5.%20How%20Typescript%20solves%20the%20problems%20of%20dynamic%20types.md)
-6. [What is a type in TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/5.%20How%20Typescript%20solves%20the%20problems%20of%20dynamic%20types.md)
+6. [What is a type in TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/6.%20What%20is%20a%20type%20in%20TypeScript.md)
 7. [Types in TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/7.%20Types%20in%20TypeScript.md)
 8. [Purposes of types in TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/8.%20Purposes%20of%20types%20in%20TypeScript.md)
 9. [Understanding Type Annotations in TypeScript](https://github.com/Svastikkka/TYPESCRIPT/blob/development/9.%20Understanding%20Type%20Annotations%20in%20TypeScript.md)
